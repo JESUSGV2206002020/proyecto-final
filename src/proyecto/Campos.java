@@ -7,10 +7,10 @@ package proyecto;
 
 /**
  *
- * @author ameri
+ * @author juan_
  */
-public class NewClass {
+public class Campos {
     public static void main(String[] args) {
-        System.out.println("Jesus ya clone tu repo");
+        //XXXX
     }
 }
